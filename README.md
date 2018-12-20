@@ -1,7 +1,8 @@
 # music_service
 
 A simple test application to help understand django rest framework.
-Th main reason was to try to understand class based views which are mainly used with django-rest framework
+The main reason was to try to understand class based views which are
+mainly used with django-rest framework.
 
 # getting started
 
